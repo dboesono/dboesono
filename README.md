@@ -13,7 +13,10 @@ I'm a final year Data Science student passionate about machine learning and AI. 
         <img src="https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&color=blue" />
     </a>
     <a href="https://github.com/dboesono/My-Resume-CV/raw/main/Darren_Boesono_Resume.pdf">
-        <img src="https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=adobe-acrobat-reader&color=blue" />
+        <img src="https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=adobe-acrobat-reader&color=red" />
+    </a>
+    <a href="https://www.hackerrank.com/darrenboesono28?hr_r=1">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
     </a>
 </p>
 

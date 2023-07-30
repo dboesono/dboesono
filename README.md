@@ -7,16 +7,16 @@ I'm a final year Data Science student passionate about machine learning and AI. 
         <img src="https://img.shields.io/github/followers/dboesono?label=Follow&logo=github&style=for-the-badge&color=blue" />
     </a>
     <a href="https://www.linkedin.com/in/dboesono">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=blue" />
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://www.kaggle.com/dboesono">
-        <img src="https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&color=blue" />
+        <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
     </a>
     <a href="https://github.com/dboesono/My-Resume-CV/raw/main/Darren_Boesono_Resume.pdf">
         <img src="https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=adobe-acrobat-reader&color=red" />
     </a>
     <a href="https://www.hackerrank.com/darrenboesono28?hr_r=1">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
     </a>
 </p>
 

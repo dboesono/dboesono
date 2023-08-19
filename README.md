@@ -87,12 +87,9 @@ For more projects, please check out my repositories!
 
 ## 📈 GitHub Stats
 
-<p align="center">
-    <a href="https://github.com/dboesono">
-        <img src="https://github-readme-stats.vercel.app/api?username=dboesono&show_icons=true&theme=blueberry" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dboesono&theme=blueberry&layout=compact" />
-    </a>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=dboesono&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dboesono&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dboesono&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
